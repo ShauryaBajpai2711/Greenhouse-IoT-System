@@ -41,4 +41,4 @@ To automate greenhouse operations and improve plant growth by maintaining optima
 - Weather prediction integration
 
 ## 👨‍💻 Author
-Your Name
+Shaurya Bajpai
